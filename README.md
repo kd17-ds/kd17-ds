@@ -44,7 +44,7 @@
 ### 🌍 Let's Connect
 
 - 💬 Ask me about **web development, DSA, Sports or Travelling**
-- 📫 Reach me at: [dsportfolio.netlify.app](https://dsportfolio.netlify.app)  
+- 📫 Reach me at: [dsportfolio.netlify.app](https://ds17portfolio.netlify.app)  
 - 🏞️ Dream: To explore and travel the world
 
 ---
