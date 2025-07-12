@@ -17,9 +17,7 @@
 ---
 
 ### 🧠 Currently Learning:
-- 🔵 C# | ASP.NET Core | SQL Server  
-- ☁️ AWS (EC2, S3, RDS, Lambda)  
-- ⚛️ React | Node.js | MongoDB  
+- 🔵 Type Script
 - 💡 DSA in Java  
 
 ---
@@ -27,35 +25,31 @@
 ### 🛠️ Technologies & Tools:
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kd17-ds&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-8D8D8D?style=for-the-badge&logo=ejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌍 Let's Connect
 
-- 💬 Ask me about **web development, DSA, C#, or moving to New Zealand**
+- 💬 Ask me about **web development, DSA, Sports or Travelling**
 - 📫 Reach me at: [dsportfolio.netlify.app](https://dsportfolio.netlify.app)  
-- 🏞️ Dream: Settling near **Queenstown, NZ** close to nature 🌲
+- 🏞️ Dream: To explore and travel the world
 
 ---
 
 ### ⚡ Fun Facts:
 
-- 🧗‍♂️ Sporty soul: cricket, football, chess, badminton — you name it!
+- 🧗‍♂️ Sporty soul: basketball, volleyball, cricket, atheletics, swimming — you name it!
 - 🧠 Always building — whether it's full-stack apps or stamina in real life!
-- 🧒 Helping my younger bro become an international badminton player 🏸
