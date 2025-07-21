@@ -6,7 +6,7 @@
 <!-- GitHub Stats Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kd17-ds&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=kd17-ds&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kd17-ds&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
