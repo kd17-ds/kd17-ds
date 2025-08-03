@@ -18,7 +18,6 @@
 ---
 
 ### 🧠 Currently Learning:
-- 🔵 Type Script
 - 💡 DSA in Java  
 
 ---
