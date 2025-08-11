@@ -51,5 +51,5 @@
 
 ### ⚡ Fun Facts:
 
-- 🧗‍♂️ Sporty soul: basketball, volleyball, cricket, atheletics, swimming — you name it!
+- 🧗‍♂️ Sporty soul: basketball, volleyball, cricket, marathons, swimming — you name it!
 - 🧠 Always building — whether it's full-stack apps or stamina in real life!
