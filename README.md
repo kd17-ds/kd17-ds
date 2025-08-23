@@ -1,4 +1,4 @@
-## Hi there 👋 I'm D.S!
+## Hi there ... I'm D.S!
 
 <!-- GitHub profile view counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kd17-ds&label=Profile%20views&color=0e75b6&style=flat" alt="kd17-ds" /> </p>
